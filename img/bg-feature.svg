@@ -1,0 +1,16 @@
+
+<svg width="1400px" height="389px" viewBox="0 0 1400 389" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="49.325979%" y1="48.4522824%" x2="50%" y2="51.5477176%" id="linearGradient-t3dew21z1g-1">
+            <stop stop-color="#FFE5D2" stop-opacity="0.629261364" offset="0%"></stop>
+            <stop stop-color="#FFF4E5" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-Productly" transform="translate(0.000000, -888.000000)" fill="url(#linearGradient-t3dew21z1g-1)">
+            <g id="03-Feature" transform="translate(-406.000000, 734.000000)">
+                <path d="M1112.65731,154 C1482.90126,153.547366 1853.69387,273.113001 2225.03513,512.696907 C2231.99742,517.186413 2234.00197,526.469936 2229.51244,533.432208 C2226.75461,537.70899 2222.01651,540.295867 2216.92766,540.303176 L-6.12273601,543.025879 C-14.4070015,543.035639 -21.1306376,536.327827 -21.1403976,528.043562 C-21.1464258,522.926818 -18.5438099,518.159952 -14.2355142,515.399572 C360.846831,274.928079 736.477771,154.461555 1112.65731,154 Z" id="Bg" transform="translate(1105.500000, 348.500000) rotate(180.000000) translate(-1105.500000, -348.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
